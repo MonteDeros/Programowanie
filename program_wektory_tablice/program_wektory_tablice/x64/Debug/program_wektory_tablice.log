@@ -1,0 +1,7 @@
+﻿  program_wektory_tablice.cpp
+C:\Users\michp\Desktop\Studia\WdP\Kolokwium v2\cw6\program_wektory_tablice\program_wektory_tablice\program_wektory_tablice.cpp(139,10): error C2373: "N": zmiana definicji; różne typy modyfikatorów
+C:\Users\michp\Desktop\Studia\WdP\Kolokwium v2\cw6\program_wektory_tablice\program_wektory_tablice\program_wektory_tablice.cpp(85): message : zobacz deklarację „N”
+C:\Users\michp\Desktop\Studia\WdP\Kolokwium v2\cw6\program_wektory_tablice\program_wektory_tablice\program_wektory_tablice.cpp(140,13): error C2466: nie można przydzielić tablicy stałego rozmiaru 0
+C:\Users\michp\Desktop\Studia\WdP\Kolokwium v2\cw6\program_wektory_tablice\program_wektory_tablice\program_wektory_tablice.cpp(141,13): error C2466: nie można przydzielić tablicy stałego rozmiaru 0
+C:\Users\michp\Desktop\Studia\WdP\Kolokwium v2\cw6\program_wektory_tablice\program_wektory_tablice\program_wektory_tablice.cpp(141,13): error C2374: "tab": zmiana definicji; wielokrotna inicjalizacja
+C:\Users\michp\Desktop\Studia\WdP\Kolokwium v2\cw6\program_wektory_tablice\program_wektory_tablice\program_wektory_tablice.cpp(140): message : zobacz deklarację „tab”
